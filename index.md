@@ -1,5 +1,4 @@
 ## Welcome to Mturk .... Consent form
-### Continue below
 
 I am Jasmine DeHart from the Department of Computer Science and I invite you to participate in my research project entitled “Visual Content Privacy Leaks on Social Media Networks”. This research is being conducted at the University of Oklahoma (OU). You were selected as a possible participant because you are frequent social media user who has used social media in the past two months. You must be at least 18 years of age to participate in this study.
 
@@ -15,8 +14,8 @@ The purpose of this research is to understand how pervasive social media-based p
 About 100 people will take part in this research.
 
 ### What will I be asked to do?
-If you agree to be in this research, you will complete a one-time 5 to 8-minute online task.
-
+ If you agree to be in this research, you will be completing an object detection task on Mechanical Turk for 5-8 minutes.
+ 
 ### How long will this take?
 Your participation will take about 5 to 8 minutes to complete. The investigator may terminate your participation if you are not 18 years of age or have not used social media within the last two months.
 
