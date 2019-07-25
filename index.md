@@ -1,6 +1,6 @@
 ## Welcome to Mturk .... Consent form
 
-I am Jasmine DeHart from the Department of Computer Science and I invite you to participate in my research project entitled “Visual Content Privacy Leaks on Social Media Networks”. This research is being conducted at the University of Oklahoma (OU). You were selected as a possible participant because you are frequent social media user who has used social media in the past two months. You must be at least 18 years of age to participate in this study.
+I am Jasmine DeHart from the Department of Computer Science and I invite you to participate in my research project entitled “Visual Content Privacy Leaks on Social Media Networks”. This research is being conducted at the University of Oklahoma (OU). You were selected as a possible participant because you have been identified as a frequent user of Amazon Mechanical Turk. You must be at least 18 years of age to participate in this study.
 
 ## Please read this document and contact me to ask any questions that you may have BEFORE agreeing to take part in my research.
 
