@@ -1,4 +1,4 @@
-## Welcome to Mturk .... Consent form
+## Welcome to the Mturk Consent form
 
 I am Jasmine DeHart from the Department of Computer Science and I invite you to participate in my research project entitled “Investigating Privacy Leaks on Twitter.” This research is being conducted at the University of Oklahoma (OU). You were selected as a possible participant because you have been identified as a frequent user of Amazon Mechanical Turk. You must be at least 18 years of age to participate in this study.
 
